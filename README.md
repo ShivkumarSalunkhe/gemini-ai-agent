@@ -126,3 +126,9 @@ The category file should contain columns such as:
 - Dark/Light mode toggle with system preference detection
 - File upload supports PDF and XLSX formats
 - Both UIs (React and Streamlit) share the same backend functionality 
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/eb477550-aa22-4e79-ae31-1947c56f4410" />
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/4a62e5e3-35c4-4f0a-bdcf-4f157de05a55" />
+
+
